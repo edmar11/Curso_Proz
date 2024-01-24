@@ -1,0 +1,11 @@
+form{
+    width: 400px;
+    background-color: #cfcfcf;
+    padding: 16px;
+}
+
+input{
+    width: 200px;
+    padding: 6px;
+    margin: 4px;
+}

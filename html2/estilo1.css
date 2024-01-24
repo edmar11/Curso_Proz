@@ -1,0 +1,29 @@
+h1{
+    background-color: #cfcfcf;
+    padding: 8px;
+}
+
+div{
+    padding: 16px;
+    background-color: bisque;
+    width: 200px;
+    border: 1px solid blue;
+    margin: 8px 0px;
+}
+
+
+p{
+    background-color: #000;
+    padding: 8px;
+    color: #fff;
+}
+
+p a{
+    color: red;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+p a:hover{
+    text-decoration: underline;
+}
